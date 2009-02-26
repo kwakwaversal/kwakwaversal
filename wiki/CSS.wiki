@@ -1,6 +1,4 @@
 #summary Useful links that I've found on CSS
 
-= CSS =
-
  * [http://constructyourcss.com/ Construct] Blueprint and jQuery layout builder
  * [http://code.google.com/p/emastic/ Emastic] Lightweight CSS framework
