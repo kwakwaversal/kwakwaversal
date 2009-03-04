@@ -1,3 +1,4 @@
+#labels openvz,linux
 #Virtualisation technology
 
 = Introduction =
