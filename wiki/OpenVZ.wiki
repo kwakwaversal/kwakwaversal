@@ -9,6 +9,7 @@ This is mainly how to set up a new virtual environment from a hardware node.
 = Create a VE =
 
  * vzctl create 1035 --ostemplate debian-4.0-i386-minimal
+ * vzctl create 1035 --ostemplate debian-5.0-i386-minimal
  * vzctl set 1035 --ipadd 192.168.1.35 --save
  * vzctl set 1035 --hostname asterisk.domain.net --save
  * vzctl set 1035 --nameserver 4.2.2.3 --save
