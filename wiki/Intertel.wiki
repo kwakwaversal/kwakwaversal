@@ -1,0 +1,33 @@
+#summary Inter-tel related stuff
+
+= SMDR =
+
+Station Message Detailed Recording is used to provide a detailed record of outgoing and incoming calls.
+
+On the CS5200, I use the following settings to get the best out of the SMDR.
+
+Maintenance > SMDR
+
+  * Output port - NONE
+  * Local backup port - NONE
+  * SMDR Output Active - Yes
+  * Output to System Manager - No
+  * Display elapsed time in Seconds - Yes
+  * Display "O/I" for Operator and International Calls - No
+  * Display Redirected Station - No
+  * Record All Incoming Calls - Yes
+  * Record All Local Calls - Yes
+  * Record All Free Calls - Yes
+  * Record All Ring-In Diagnostics - Yes
+  * Record All Toll (National) Calls - Yes
+  * Record All Operator Calls - Yes
+  * Record All International Calls - Yes
+  * Record All DISA Calls - Yes
+  * Record All Conference Calls - Yes
+  * Record All Trunk to Trunk Calls - Yes
+  * Record All Network Calls - No
+  * Record All Off-Node Devices - Yes
+  * Suppress Absorbed Digits - No
+  * Suppress Outside Party Number - No
+  * Suppress Toll Digits - No
+  * Suppress Trunk Number - No
