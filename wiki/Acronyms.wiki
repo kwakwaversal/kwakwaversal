@@ -1,0 +1,10 @@
+#summary Acronyms that I should know
+
+= Introduction =
+
+These are mnemonics I have come across, and are ones I already know and would like to keep around for reference.
+
+== Networking ==
+
+  * TCP - Transmission Control Protocol
+  * UDP - User Datagram Protocol
