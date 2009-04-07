@@ -2,7 +2,7 @@
 
 = Introduction =
 
-These are mnemonics I have come across, and are ones I already know and would like to keep around for reference.
+These are acronyms I have come across.  They are also ones I already know and would like to keep around for reference.
 
 == Networking ==
 
