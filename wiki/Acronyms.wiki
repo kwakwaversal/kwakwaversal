@@ -4,6 +4,10 @@
 
 These are acronyms I have come across.  They are also ones I already know and would like to keep around for reference.
 
+== Telecommunications ==
+
+  * E.164 - international public telecommunication numbering plan definition
+
 == Networking ==
 
   * TCP - Transmission Control Protocol
