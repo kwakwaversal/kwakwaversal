@@ -6,4 +6,9 @@ This is some linux related stuff I have made a place for.  I intend to break thi
 
 == GUI Notification ==
 
-install libnotify-bin and you get a program called 'notify-send'
+install libnotify-bin and you get a program called 'notify-send'.  
+
+=== Perl modules ===
+
+  * Gtk2::Notify
+  * Desktop::Notify
