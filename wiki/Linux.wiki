@@ -1,0 +1,9 @@
+#summary Linux related stuff
+
+= Introduction =
+
+This is some linux related stuff I have made a place for.  I intend to break this up at some point but I don't have enough content.
+
+== GUI Notification ==
+
+install libnotify-bin and you get a program called 'notify-send'
