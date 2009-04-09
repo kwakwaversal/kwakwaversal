@@ -40,3 +40,15 @@ Command:
 
  _MS,1,,4,A:0,C:FFFC,F:0
 
+== Tests ==
+
+I need to test different types of calls to make sure each one of them can be tracked and handled accordingly.
+
+  * Unanswered calls (short, long, diverted)
+  * Normal call (ring, established, disconnected)
+  * Normal call with successful transfer
+  * Normal call with transfer, but no answer
+  * Normal call with blind transfer
+  * Normal call with multiple transfer attempts before successful transfer
+
+I also need perform the same tests with calls which are transferred internally.
