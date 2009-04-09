@@ -31,3 +31,12 @@ Maintenance > SMDR
   * Suppress Outside Party Number - No
   * Suppress Toll Digits - No
   * Suppress Trunk Number - No
+
+= Suspend =
+
+When trying to work out live billing based on information coming into the pbx, I noticed that it's possible to trace the journey of a call using the same monitor as the suspend bot.
+
+Command:
+
+ _MS,1,,4,A:0,C:FFFC,F:0
+
