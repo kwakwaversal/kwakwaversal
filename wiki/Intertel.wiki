@@ -1,5 +1,9 @@
 #summary Inter-tel related stuff
 
+*Table of contents*
+
+<wiki:toc max_depth="2" />
+
 = SMDR =
 
 Station Message Detailed Recording is used to provide a detailed record of outgoing and incoming calls.
@@ -36,9 +40,11 @@ Maintenance > SMDR
 
 When trying to work out live billing based on information coming into the pbx, I noticed that it's possible to trace the journey of a call using the same monitor as the suspend bot.
 
-Command:
+Monitor start command:
 
- _MS,1,,4,A:0,C:FFFC,F:0
+{{{
+  _MS,1,,4,A:0,C:FFFC,F:0
+}}}
 
 == Tests ==
 
