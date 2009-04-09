@@ -4,6 +4,10 @@
 
 <wiki:toc max_depth="2" />
 
+= Introduction =
+
+Inter-tel related chatter that I will use as reference both now, and in the future.
+
 = SMDR =
 
 Station Message Detailed Recording is used to provide a detailed record of outgoing and incoming calls.
