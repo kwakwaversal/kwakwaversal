@@ -17,3 +17,7 @@ Links which I have read, or intend reading.
 
   * [http://www.debugmode.com/wink/ Wink] - Open source flash tutorial and presentation software
   * [http://www.autohotkey.com/ Auto Hot Key] - Open source software to create macros, to be used with wink?
+
+== Learning ==
+
+  * [http://www.livescience.com/health/070208_intelligence_growth.html The brain is like a muscle] - How to create interest in children by telling them how the brain creates neurons and grows strong like a muscle
