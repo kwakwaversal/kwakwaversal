@@ -1,0 +1,9 @@
+#summary Web administration and things
+
+= Introduction =
+
+Certain things I have come across when performing actions relating to web hosting, design and administration.
+
+= Norton Safe Web =
+
+Get registered with norton and make sure you're safe.  Once you [https://safeweb.norton.com/signup sign up] for an account you will receive an e-mail.  Just follow the instructions :)
