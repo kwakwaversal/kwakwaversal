@@ -12,6 +12,7 @@ It might still be a while before I need to do anything about getting a mortgage 
    # Inquire about how much I can overpay, some restrict overpayments to 10%.
    # Ask if I can take a payment break with any money that has been overpaid for a particular year.
    # Make sure I am not penalised for being more thrifty!
+   # When overpaying on fixed deals, make sure there is no penalty for overpaying so much that you finish the mortgage before the fixed term ends.
 
 = Links =
 
