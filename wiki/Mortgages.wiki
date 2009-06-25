@@ -4,6 +4,8 @@
 
 It might still be a while before I need to do anything about getting a mortgage but over time I have read things which will come in handy when I eventually try and get one.  This document outlines things I thought necessary to remember.
 
+== Considerations ==
+
   * Additional fees
    # Ask about additional fees when getting a mortgage.  Some have a closing payment fee for example.
   * Overpayments
@@ -15,3 +17,5 @@ It might still be a while before I need to do anything about getting a mortgage 
 == Calculators ==
 
   * [http://www.mortgagesexposed.com/Spreadsheets/Flexible%20Mortgages.xls Spreadsheet for mortgage overpayments]
+
+= References =
