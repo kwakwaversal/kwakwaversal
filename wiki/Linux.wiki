@@ -12,3 +12,7 @@ install libnotify-bin and you get a program called 'notify-send'.
 
   * Gtk2::Notify
   * Desktop::Notify
+
+== Installing oracle libraries on Debian ==
+
+To install the oracle client on debian, you must download some .rpms from the [http://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/linuxsoft.html Oracle website].
