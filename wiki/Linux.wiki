@@ -33,4 +33,25 @@ By default this will create .deb packages for each rpm.  It's also possible to u
 
 The next step is to add the oracle libraries to the search path.  On debian I created a file called `/etc/ld.so.conf.d/oracle.conf` and added the path `/usr/lib/oracle` and more importantly `/usr/lib/oracle/10.2.0.4/client/lib`.  Once that was done, I just ran `ldconfig` to re-initialise the libraries.
 
+=== Notes ===
+
+There were other things I needed to edit to get this working with catalyst and DBIx::Class, namely the schema loader.
+
+Edit: `/usr/share/perl5/DBIx/Class/Schema/Loader/DBI/Oracle.pm`
+
+{{{
+            SELECT constraint_name, ucc.column_name
+            FROM user_constraints JOIN user_cons_columns ucc USING (constraint_name)
+            WHERE ucc.table_name=? AND constraint_type='U'
+            ORDER BY ucc.position
+}}}
+
+{{{
+            SELECT user_constraints.constraint_name, user_cons_columns.column_name
+            FROM user_constraints, user_cons_columns
+            WHERE user_constraints.constraint_name = user_cons_columns.constraint_name
+            AND user_cons_columns.table_name=? AND constraint_type='U'
+            ORDER BY user_cons_columns.position
+}}}
+
 DONE
