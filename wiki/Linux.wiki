@@ -31,6 +31,6 @@ Once they are downloaded, install and use `alien` from the debian repository and
 
 By default this will create .deb packages for each rpm.  It's also possible to use the -i flag to install the packaged, but I did that separately using `dpkg`.
 
-The next step is to add the oracle libraries to the search path.  On debian I created a file called `/etc/ld.so.conf.d/oracle.conf` and added the path `/usr/lib/oracle`.  Once that was done, I just ran `ldconfig` to re-initialise the libraries.
+The next step is to add the oracle libraries to the search path.  On debian I created a file called `/etc/ld.so.conf.d/oracle.conf` and added the path `/usr/lib/oracle` and more importantly `/usr/lib/oracle/10.2.0.4/client/lib`.  Once that was done, I just ran `ldconfig` to re-initialise the libraries.
 
 DONE
