@@ -15,4 +15,16 @@ install libnotify-bin and you get a program called 'notify-send'.
 
 == Installing oracle libraries on Debian ==
 
-To install the oracle client on debian, you must download some .rpms from the [http://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/linuxsoft.html Oracle website].
+To install the oracle client on debian, you must download some .rpms from the [http://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/linuxsoft.html Oracle website].  The job I did was on oracle server 8i, so I found out the compatible version I needed was 10.2.0.4.
+
+Download:
+
+  * Basic lite RPM
+  * Sqlplus RPM
+  * Devel
+
+Once they are downloaded, install and use 'alien' from the debian repository and run
+
+ alien *.rpm
+
+By default this will create .deb packages for each rpm.  It's also possible to use the -i flag to install the packaged, but I did that separately using dpkg.
