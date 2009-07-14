@@ -1,0 +1,11 @@
+#summary Perl stuff
+
+= Introduction =
+
+I will be adding bits and bobs regarding perl.
+
+= Wiki =
+
+For an upcoming project, I have decided to include a messaging system.  The messaging system will typically accept google wiki style formatting, compile it, then store it in the database.
+
+I have decided to use `Text::GooglewikiFormat` to do the formatting as I believe it will be the easiest for people to pick up.
