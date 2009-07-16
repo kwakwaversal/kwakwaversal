@@ -2,4 +2,5 @@
 
  * [http://constructyourcss.com/ Construct] Blueprint and jQuery layout builder
  * [http://code.google.com/p/emastic/ Emastic] Lightweight CSS framework
+ ** [http://www.allapis.com/Emastic-CSS-Temaplates/template8.html Sample templates]
  * [http://code.google.com/p/formy-css-framework/ Formy] CSS form framework by the same author as Emastic
