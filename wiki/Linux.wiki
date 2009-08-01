@@ -4,6 +4,16 @@
 
 This is some linux related stuff I have made a place for.  I intend to break this up at some point but I don't have enough content.
 
+== Openvz - Create new VE ==
+
+ * vzctl create 1045 --ostemplate debian-4.0-i386-minimal
+ * vzctl set 1045 --ipadd 192.168.1.45 --save
+ * vzctl set 1045 --hostname asterisk.domain.net --save
+ * vzctl set 1045 --nameserver 4.2.2.3 --save
+ * vzctl set 1045 --userpasswd root:test
+ * vzctl start 1045
+ * vzctl enter 1045
+
 == GUI Notification ==
 
 install libnotify-bin and you get a program called 'notify-send'.  
