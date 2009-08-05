@@ -13,6 +13,10 @@ Links which I have read, or intend reading.
 
   * [http://iptables-tutorial.frozentux.net/iptables-tutorial.html iptables]
 
+== Javascript ==
+
+  * [http://www.reindel.com/five_javascript_tricks_jquery/ jQuery tricks] - Form Field Value Swap, Characters Remaining Countdown, Simply Centered Informational DIV Popup, Collapsing Table Columns, The RSS Feed Reader.
+
 == Software ==
 
   * [http://www.debugmode.com/wink/ Wink] - Open source flash tutorial and presentation software
