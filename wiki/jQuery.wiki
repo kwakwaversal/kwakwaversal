@@ -13,6 +13,7 @@ The thing that is different about this message fade, is the [http://plugins.jque
 
 {{{
 
+Javascript:
     var messageDelayer=delayTimer(2000);
 
     function delayTimer(delay){
@@ -36,6 +37,21 @@ The thing that is different about this message fade, is the [http://plugins.jque
     }
 
     displayMessage("hello there");
+
+CSS:
+    #message {
+    	font-size: 1em;
+    	top: 1em;
+    	right: 1em;
+    	width: 350px;
+    	display: none;
+    	padding: 1em;
+    	background: #ffc;
+    	border: 1px solid #dda;
+    }
+
+HTML:
+    <div id="message" class="ui-corner-all"></div>
 
 }}}
 
