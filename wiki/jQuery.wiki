@@ -9,6 +9,8 @@ Snippets of useful stuff I've found for jQuery.  I will include links and code s
 
 == Message fade in and out ==
 
+The thing that is different about this message fade, is the [http://plugins.jquery.com/project/delayer delay timer] that I use.  This prevents the timeouts from getting too funked if multiple calls to displayMessage() are called in quick succession.
+
 {{{
 
     var messageDelayer=delayTimer(2000);
