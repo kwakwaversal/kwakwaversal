@@ -1,0 +1,44 @@
+#summary jQuery snippets
+
+= Introduction =
+
+Snippets of useful stuff I've found for jQuery.  I will include links and code so that I can refer to it in the future.
+
+
+= Code =
+
+== Message fade in and out ==
+
+{{{
+
+    var messageDelayer=delayTimer(2000);
+
+    function delayTimer(delay){
+         var timer;
+         return function(fn){
+              timer=clearTimeout(timer);
+              if(fn)
+                   timer=setTimeout(function(){
+                   fn();
+                   },delay);
+              return timer;
+         }
+    }
+
+    function displayMessage(message) {
+        $("#message").html(message).fadeIn(function(){
+             messageDelayer(function(){
+                  $("#message").fadeOut("fast");
+             });
+        });
+    }
+
+    displayMessage("hello there");
+
+}}}
+
+= Plugins =
+
+jQuery plugins that I have found useful at some point:
+  * [http://plugins.jquery.com/project/Growl-for-the-net-and-jQuery Growl]
+  * [http://www.redredred.com.au/projects/jquery-week-calendar/ Week calendar]
