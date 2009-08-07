@@ -58,5 +58,5 @@ HTML:
 = Plugins =
 
 jQuery plugins that I have found useful at some point:
-  * [http://plugins.jquery.com/project/Growl-for-the-net-and-jQuery Growl]
+  * [http://plugins.jquery.com/project/Growl-for-the-net-and-jQuery Growl] - This is an excellent way to send notices to users.  There is also a version similar to this called [http://boedesign.com/2009/07/11/growl-for-jquery-gritter/ Gritter], but that is too css/js heavy, whilst not giving it a better overall impression.
   * [http://www.redredred.com.au/projects/jquery-week-calendar/ Week calendar]
