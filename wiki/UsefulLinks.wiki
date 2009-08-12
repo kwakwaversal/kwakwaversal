@@ -9,6 +9,10 @@ Links which I have read, or intend reading.
   * [http://www.netfilter.org/documentation/HOWTO//networking-concepts-HOWTO.html Linux Networking Concepts]
   * [http://www.netfilter.org/documentation/index.html Netfilter docs]
 
+== Flash ==
+
+  * [http://www.devpro.it/xmlsocket/ Flash communication] - Communication via flash over an XMLSocket
+
 == Linux ==
 
   * [http://iptables-tutorial.frozentux.net/iptables-tutorial.html iptables]
