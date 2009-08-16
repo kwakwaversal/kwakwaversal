@@ -63,3 +63,5 @@ jQuery plugins that I have found useful at some point:
   * [http://www.sandbox.timbenniks.com/projects/jquery-notice/ jQuery notice] Excellent, streamlined jQuery notice plugin. IE friendly!
   * [http://plugins2.jquery.com/project/stickyfloat Sticky float] - Would be useful for a sticky like replacement for my autoform.
   * [http://plugins2.jquery.com/project/calc Calc] - When replacing autoform, this will be good for the order system part.
+  * Checkboxes
+  ** [http://plugins2.jquery.com/project/shiftclick Shiftclick] - Holding shift selects multiple checkboxes.
