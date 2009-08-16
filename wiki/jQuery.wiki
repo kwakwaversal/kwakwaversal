@@ -65,5 +65,6 @@ jQuery plugins that I have found useful at some point:
   * [http://plugins2.jquery.com/project/calc Calc] - When replacing autoform, this will be good for the order system part.
   * [http://plugins2.jquery.com/project/constrain Constrain] This would be good for autoform, restricting PAs to only insert certain information
   * [http://plugins2.jquery.com/project/databind Data bind] Bind data to elements based on id etc... Would be useful if I ever got around to writing a wallboard or something.
+  * [http://plugins2.jquery.com/project/edit_in_place Edit in place] Seems ok, a more useful version could supercede this.
   * Checkboxes
     * [http://plugins2.jquery.com/project/shiftclick Shiftclick] - Holding shift selects multiple checkboxes.
