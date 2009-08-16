@@ -77,3 +77,4 @@ jQuery plugins that I have found useful at some point:
   * [http://plugins2.jquery.com/project/formcheck Form Check] Just code, not checked properly
   * [http://plugins2.jquery.com/project/floating_hint_box Input hint box] - Will be very good for new autoform.  Displays hints next to the focused field.  I would extend to display if someone clicks the parent of the input field also.
   * [http://plugins2.jquery.com/project/hint Input hint] - I like this. It uses the title= attribute of the input box and prepopulates it, will remove on submit.
+  * [http://plugins2.jquery.com/project/jeditable JEditable] - This in place editor would be pretty hard to beat I think!
