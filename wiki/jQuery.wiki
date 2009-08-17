@@ -81,3 +81,4 @@ jQuery plugins that I have found useful at some point:
   * [http://plugins2.jquery.com/project/jq-autocomplete Autocomplete] - I need to test this.
   * [http://downloads.zhandwa.com/trackchanges/demo/ Track changes] - Tracks the forms changing.
   * [http://plugins2.jquery.com/project/form-observe Form observe] - Will be VERY useful on the new popscreens.  This contains code which will stop PAs being able to close screens that they've altered but not submitted.
+  * [http://plugins2.jquery.com/project/spin-button Spin button] - Decent spin button tagged next to a text box.  God for selecting numbers in intervals.
