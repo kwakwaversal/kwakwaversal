@@ -77,9 +77,11 @@ jQuery plugins that I have found useful at some point:
   * [http://plugins2.jquery.com/project/FormValidation Form Validation]
   * [http://plugins2.jquery.com/project/formcheck Form Check] Just code, not checked properly
   * [http://plugins2.jquery.com/project/floating_hint_box Input hint box] - Will be very good for new autoform.  Displays hints next to the focused field.  I would extend to display if someone clicks the parent of the input field also.
-  * [http://plugins2.jquery.com/project/hint Input hint] - I like this. It uses the title= attribute of the input box and prepopulates it, will remove on submit.
   * [http://plugins2.jquery.com/project/jeditable JEditable] - This in place editor would be pretty hard to beat I think!
   * [http://plugins2.jquery.com/project/jq-autocomplete Autocomplete] - I need to test this.
-  * [http://downloads.zhandwa.com/trackchanges/demo/ Track changes] - Tracks the forms changing.
-  * [http://plugins2.jquery.com/project/form-observe Form observe] - Will be VERY useful on the new popscreens.  This contains code which will stop PAs being able to close screens that they've altered but not submitted.
-  * [http://plugins2.jquery.com/project/spin-button Spin button] - Decent spin button tagged next to a text box.  God for selecting numbers in intervals.
+  * Forms
+    * [http://www.benjaminkeen.com/software/rsv/jquery/ RSV] Simple validation, might be a good starting point for my own.
+    * [http://plugins2.jquery.com/project/spin-button Spin button] - Decent spin button tagged next to a text box.  God for selecting numbers in intervals.
+    * [http://plugins2.jquery.com/project/form-observe Form observe] - Will be VERY useful on the new popscreens.  This contains code which will stop PAs being able to close screens that they've altered but not submitted.
+    * [http://downloads.zhandwa.com/trackchanges/demo/ Track changes] - Tracks the forms changing.
+    * [http://plugins2.jquery.com/project/hint Input hint] - I like this. It uses the title= attribute of the input box and prepopulates it, will remove on submit.
