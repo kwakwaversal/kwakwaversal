@@ -76,6 +76,7 @@ jQuery plugins that I have found useful at some point:
   * [http://www.keyframesandcode.com/resources/javascript/jQuery/demos/highlight-demo.html Highlight] - Highlights form parents, table rows, individual cells etc. Quite cool. Its also an example of creating a plugin with using the $ character.
   * [http://plugins2.jquery.com/project/FormValidation Form Validation]
   * [http://plugins2.jquery.com/project/formcheck Form Check] Just code, not checked properly
+  * [http://plugins2.jquery.com/project/simpletip Simple tip] Nicest tipper I've seen for a while!
   * [http://plugins2.jquery.com/project/floating_hint_box Input hint box] - Will be very good for new autoform.  Displays hints next to the focused field.  I would extend to display if someone clicks the parent of the input field also.
   * [http://plugins2.jquery.com/project/jeditable JEditable] - This in place editor would be pretty hard to beat I think!
   * [http://plugins2.jquery.com/project/jq-autocomplete Autocomplete] - I need to test this.
