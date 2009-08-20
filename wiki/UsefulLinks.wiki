@@ -41,3 +41,4 @@ Links which I have read, or intend reading.
   * [http://www.mortgagesexposed.com/Spreadsheets/Flexible%20Mortgages.xls] - Speadsheet for mortgage overpayments
   * [http://www.listentotaxman.com/ UK PAYE income tax calculator] - Very cool
   * [http://www.postcode-info.co.uk/counties.html Postcodes] - Nice information about postcodes and related towns etc...
+  * [http://www.zipcodeworld.com/developers.htm Distance calculation] - Lots of distance calculation - in multiple languages - using the longitude and latitude.
