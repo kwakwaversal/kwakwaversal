@@ -13,6 +13,10 @@ Links which I have read, or intend reading.
 
   * [http://www.devpro.it/xmlsocket/ Flash communication] - Communication via flash over an XMLSocket
 
+== Databases ==
+
+  * [http://www.4guysfromrolla.com/webtech/041807-1.shtml Database change auditing]
+
 == Linux ==
 
   * [http://iptables-tutorial.frozentux.net/iptables-tutorial.html iptables]
