@@ -36,10 +36,14 @@ Links which I have read, or intend reading.
   * [http://www.videojug.com/film/how-to-use-hyphens-and-dashes How to use hyphens] - Nice video tutorial on how to use hyphens.
   * [http://www.videojug.com/film/how-to-use-commas How to use commas] - Nice tutorial from videojug again.
 
+== XBMC ==
+
+  * [http://www.xbmc.org/wiki/?title=Adding_Media_Sources#Through_Sources.xml XBMC Adding Sources]
+  * [http://www.teamrazorfish.co.uk/mediastream.html Media stream] - Skin
+
 == Miscellaneous ==
   * [http://yourtotalhealth.ivillage.com/backyard-barbeque-harmful-your-health.html BBQs and your health] - Tips for my mum when doing BBQs!
   * [http://www.mortgagesexposed.com/Spreadsheets/Flexible%20Mortgages.xls] - Speadsheet for mortgage overpayments
   * [http://www.listentotaxman.com/ UK PAYE income tax calculator] - Very cool
   * [http://www.postcode-info.co.uk/counties.html Postcodes] - Nice information about postcodes and related towns etc...
   * [http://www.zipcodeworld.com/developers.htm Distance calculation] - Lots of distance calculation - in multiple languages - using the longitude and latitude.
-  * [http://www.xbmc.org/wiki/?title=Adding_Media_Sources#Through_Sources.xml XBMC Adding Sources]
