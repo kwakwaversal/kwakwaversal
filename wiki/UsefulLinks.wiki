@@ -42,6 +42,7 @@ Links which I have read, or intend reading.
   * [http://www.teamrazorfish.co.uk/mediastream.html Media stream] - Skin
   * [http://www.thebitjockey.com/xbmcplugins/ Music plugin]
   * [http://www.box.net/xbmcscripts Scripts] - MyTV, radiotimes scraper (and other scripts)
+  * [http://mediainfoplus.com/ MIP] - Software to manage all the fanart for movies, music etc..
 
 == Miscellaneous ==
   * [http://yourtotalhealth.ivillage.com/backyard-barbeque-harmful-your-health.html BBQs and your health] - Tips for my mum when doing BBQs!
