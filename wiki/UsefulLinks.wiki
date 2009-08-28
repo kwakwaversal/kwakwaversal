@@ -41,6 +41,7 @@ Links which I have read, or intend reading.
   * [http://www.xbmc.org/wiki/?title=Adding_Media_Sources#Through_Sources.xml XBMC Adding Sources]
   * [http://www.teamrazorfish.co.uk/mediastream.html Media stream] - Skin
   * [http://www.thebitjockey.com/xbmcplugins/ Music plugin]
+  * [http://www.box.net/xbmcscripts Scripts] - MyTV, radiotimes scraper (and other scripts)
 
 == Miscellaneous ==
   * [http://yourtotalhealth.ivillage.com/backyard-barbeque-harmful-your-health.html BBQs and your health] - Tips for my mum when doing BBQs!
