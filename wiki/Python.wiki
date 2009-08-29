@@ -1,0 +1,12 @@
+#summary Learning python
+
+= Introduction =
+
+I am going to start learning python, so that I can create and compile windows applications for the clients of the current company I work for.
+
+I would like to learn python for other projects that include scripting languages that can be written in python, like XBMC.
+
+
+= Links =
+
+ * [http://www.ehow.com/how_2091641_compile-python-code.html Compiling Python]
