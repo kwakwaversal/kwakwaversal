@@ -12,6 +12,7 @@ Links which I have read, or intend reading.
 == Flash ==
 
   * [http://www.devpro.it/xmlsocket/ Flash communication] - Communication via flash over an XMLSocket
+  * [http://translate.google.co.uk/translate?js=y&prev=_t&hl=en&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Fblog.datacompboy.ru%2F2009%2F10%2F19%2Fwavplayer-flash-player-for-asterisk-sounds%2F&sl=ru&tl=en Flash WAV/AU/GSM player] - Awesome free flash app to play wav files
 
 == Databases ==
 
