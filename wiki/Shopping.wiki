@@ -1,0 +1,15 @@
+#summary Internet shopping
+
+= Introduction =
+
+Just some stuff which will be useful as a reference for me in the future.
+
+
+= Delivery =
+
+[http://www.berr.gov.uk/whatwedo/consumers/fact-sheets/page38102.html Delivery Liability]
+{{{
+According to the Sale and Supply of Goods to Consumer Regulations 2002
+the goods remain at the seller’s risk until they are delivered to the
+consumer. Thus the supplier is liable should the goods not arrive.
+}}}
