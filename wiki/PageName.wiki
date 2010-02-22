@@ -1,0 +1,11 @@
+#summary Stuff about houses that I've picked up
+
+= Introduction =
+
+Exactly what I put in the summary.  This is a collection of snippets of information that might come in handy when looking for, or building onto a new house.
+
+
+= Details =
+
+Extensions
+  * When building extensions, always go for pitched rooves, as flat ones will always give you trouble.
