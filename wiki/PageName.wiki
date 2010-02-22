@@ -13,4 +13,7 @@ Period houses
 = Sections =
 
 Extensions
-  * When building extensions, always go for pitched rooves, as flat ones will always give you trouble.
+  * When building extensions, always go for pitched roofs, as flat ones will always give you trouble.
+
+Misc
+  * If you knock through walls to join two rooms, think about families, and how they would prefer to have two separate spaces.  One for the kids, and one for themselves.
