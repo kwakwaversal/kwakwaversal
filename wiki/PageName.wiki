@@ -38,3 +38,4 @@ Misc
   * Textured ceilings (artexed) where there is limited light draws the light in, and gives nothing out.  Think about smoothing them off.
   * Depending on the type of house (victorian, older houses), think about going for wooden framed double glazing rather than PVC.  If they retain the original sash windows, do not replace them (it'll cost a fortune), and secondary glaze, or get units to fit the existing windows.
   * Every main room should have a centrepiece, without it, there is no focal point.
+  * A downstairs toilet needs to be near the main soil pipe.  Don't even think about putting one on the other side of the house!
