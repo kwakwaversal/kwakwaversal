@@ -1,4 +1,5 @@
 #summary Stuff about houses that I've picked up
+#sidebar TableOfContents
 
 = Introduction =
 
