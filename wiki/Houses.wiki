@@ -1,5 +1,6 @@
 #summary Stuff about houses that I've picked up
-#sidebar TableOfContents
+
+<wiki:toc max_depth="1" />
 
 = Introduction =
 
