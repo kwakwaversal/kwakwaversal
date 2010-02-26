@@ -64,6 +64,12 @@ Property
   * "Adopted" road/access - where is the boundary? (You might own the road outside!) ^1^
   * Both vendor's solicitor and my solicitor claimed she could not be found, so the sale was "absent freeholder" purchase, which apparently was common. a week after completion she turned up on my doorstep demanding service charges payable by the previous leaseholder. If I hadn't been so naive, I would have written a letter to the freeholders home address myself, which was noted on the title deeds (I didn't know it was OK to do this, as my solicitor told me it was up to the vendors solicitor to get in touch with her). ^1^
   * Don't ever buy a leasehold flat. It will ruin your life. The end. ^1^
+  * Think about creating a spreadsheet to calculate the total floor area of each property you look at, so you can work out the price per square metre. ^1^
+  * Check to see if the neighbours have right of way through your property.  Good neighbours is fine, but if they sell on, bad neighbours might be a nightmare. ^1^
+  * Don't rely on others to contact the vendor for you. Keep in touch with the vendor yourself - try to maintain cordial relations, even if they're being a complete pain (the guy I bought from was). As a first-time buyer, you may be inexperienced, but you're in control of your vendor's destiny and of everyone else in the chain, so stand your ground! Always tell your solicitor anything that the vendor tells you. ^1^
+  * Check the property as much as you can prior to exchange of contracts. Don't rely on the survey alone, even if it's a full structural survey. In my case I had a homebuyer survey done but I think half a day looking all around the house (from roof to floor) with a good builder would have cost less, and would have revealed more than a one-hour survey. Having said that, many problems with houses are unfortunately hidden behind plasterboard, wallpaper and carpets - you might not find out about all the problems until after you buy. ^1^
+  * Get a timber and damp inspection (but be aware they can often mis-diagnose damp problems, so get more than one), an electrical inspection, a gas safety inspection. Don't take them as gospel, but if they show up problems then tell the vendor about it look at whether to re-negotiate the price. Even what might seem like minor refurbishments to a house can be complex and expensive. ^1^
+  * If you see a better house while you're in the process of buying, or you get a bad feeling about the house, don't be afraid to pull out. Until you exchange contracts, you're free to pull out at any time. Don't worry about the wasted solicitors fees, surveys etc. if you pull out - far better to lose 500-1000 pounds than to end up in the wrong house. ^1^
 
 Solicitors
 
@@ -78,16 +84,22 @@ Solicitors
   * If they don't meet your expectations, you'll gain little from ranting and screaming at them usually. Usually a word to the effect that you're going to invoke their complaints procedure delivers the kick in the pants they need, failing that a letter to one of the senior partners works wonders. ^1^
   * If you get a bad solicitor who acts unprofessionally, always consider reporting them to the Law Society. ^1^
   * Get your will done with your solicitor at the time as most will do it for free since they are already being paid. ^1^
-  * Check to see if the neighbours have right of way through your property.  Good neighbours is fine, but if they sell on, bad neighbours might be a nightmare. ^1^
+  * Use a solicitor who is local to the property for conveyancing. Ring around for prices: they shouldn't vary that much, so pick the company who seems most professional and helpful and answers the phone/e-mail. Solicitors fees are exorbitant, but at least they're not as much as a rip-off as estate agents! ^1^
 
 Mortgage advisor
 
   * Make sure the advisor youre picking is an IFA - Independant Financial Advisor.  They are not affiliated to a bank or product, and are therefore not fettered in their ability to find you the best deals available. ^1^
   * As with solicitors, the best thing is to call a few to get some quotes, and judge how well you think you'll get on with them during your telephone call. Remember, this person is going to have access to all your financial details, so for me picking someone you generally feel comfortable with is a good guiding light. ^1^
 
+Estate agents
+
+  * Estate agents can put a spin on things, but they can't lie to you. Ask them direct questions like "Have there been any disputes with neighbours?", "How many viewings have you had?", "How many offers have you had?", "What renovations have been done on the house?", "How old is the boiler?" etc. They must answer truthfully. If they don't know, ask them to ask the vendor. Note the answers and tell the solicitors what they said. ^1^
+  * If you make an offer on a house, the estate agent cannot legally reject it without first asking the vendor. ^1^
+
 Surveyor
 
   * Ensure surveyor is RICS chartered. Get a full survey for older houses.
+  * Use a surveyor who is not tied to an estate agents, but an independent.
 
 Materials & labour
 
