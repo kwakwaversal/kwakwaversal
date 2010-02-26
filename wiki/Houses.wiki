@@ -35,7 +35,7 @@ Property
   * When looking around, show no interest, just ask for the details. By the time we'd finished looking round, the word 'discount' had been mentioned more than a few times! ^1^
   * Do your homework - lots of good resources on this site to check house prices, flood areas, noise, crime rates, planning applications etc. Don't make any assumptions, take the time to do these checks. ^1^
   * Learn all you can about mortgages. If you're overpaying, you may struggle getting a new mortgage at a better rate because of your overpayments. -Paul W
-  * Check the type of lease is on the property.  Freehold, commonhold, leasehold. -Paul W
+  * Check the type of lease is on the property.  Freehold, commonhold, [http://www.lease-advice.org/ leasehold]. -Paul W
   * Make sure the gas and boiler are safe.  Not sure if this is included in the HIPs? -Paul W
   * Go to "[http://www.propertysnake.co.uk/ Property Snake]" website and see how long the house has been on the market. If it has been hanging about, there may well be an issue. ^1^
   * Go to "[http://www.nethouseprices.com/ Net House Prices]" website and see what the house last sold for (and equivalent houses in the area). If you find discrepancies, try to establish why. ^1^
