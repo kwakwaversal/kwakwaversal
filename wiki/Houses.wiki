@@ -154,6 +154,9 @@ Period houses
 Extensions
   * When building extensions, always go for pitched roofs, as flat ones will always give you trouble.
 
+Conservatories
+  * When building a conservatory, bigger is not always best.  Try and keep the conservatory in proportion to the architecture of the house; taking up too much of the garden might actually start to detract from the value of adding the conservatory in the 1st place.
+
 Misc
   * If you knock through walls to join two rooms, think about families, and how they would prefer to have two separate spaces.  One for the kids, and one for themselves.
 
