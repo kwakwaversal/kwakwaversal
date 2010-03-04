@@ -4,6 +4,12 @@
 
 It might still be a while before I need to do anything about getting a mortgage but over time I have read things which will come in handy when I eventually try and get one.  This document outlines things I thought necessary to remember.
 
+== Variable rate mortgage ==
+
+The loan may be offered at the lender's standard variable rate/base rate. There may be a direct and legally defined link to the underlying index but where the lender offers no specific link to the underlying market of index they can choose to increase or decrease at their discretion.
+
+  * Check to see what the interest rate is linked to.  Without a link to a direct or legally defined link, they can increase of decrease at their discretion. 
+
 == Considerations ==
 
   * Additional fees
