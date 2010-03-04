@@ -8,6 +8,8 @@ It might still be a while before I need to do anything about getting a mortgage 
 
 The loan may be offered at the lender's standard variable rate/base rate. There may be a direct and legally defined link to the underlying index but where the lender offers no specific link to the underlying market of index they can choose to increase or decrease at their discretion.
 
+In American these are referred to as 'adjustable rate mortgages' which is a lot clearer to understand!
+
   * Check to see what the interest rate is linked to.  Without a link to a direct or legally defined link, they can increase of decrease at their discretion. 
 
 == Considerations ==
