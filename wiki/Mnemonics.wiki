@@ -15,4 +15,4 @@ Add your content here.  Format your content with:
 
 = References =
 
-* [http://www.markchannon.com/ Mark Channon, old school Memory Master]
+  * [http://www.markchannon.com/ Mark Channon, old school Memory Master]
