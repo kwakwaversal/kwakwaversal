@@ -1,0 +1,13 @@
+#summary Techniques or interesting things about memory
+
+= Introduction =
+
+I am planning to use 2011 to improve my memory, as well as fun facts and trivia.  I will need to use current techniques I have already mastered, as well as condition myself to believe I can keep it up.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
