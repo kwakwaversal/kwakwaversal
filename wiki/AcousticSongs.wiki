@@ -50,11 +50,11 @@ Songs broken into category by artist.
   * [http://www.ultimate-guitar.com/tabs/s/snow_patrol/finish_line_crd.htm Snow Patrol - The Finish Line], [http://www.youtube.com/watch?v=57ucdKkyGWQ YouTube]
   * U2 - With out Without you (C G Am F), [http://www.youtube.com/watch?v=S733x3m4VcU YouTube]
   * [http://www.ultimate-guitar.com/tabs/b/ben_e_king/stand_by_me_ver4_tab.htm Stand by me] (G G Em Em C D G G)
-  * [http://www.we7.com/track/Bloodbuzz-Ohio?trackId=4164191&m=0 Bloodbuzz Ohio - The National], [http://www.ultimate-guitar.com/tabs/t/the_national/bloodbuzz_ohio_crd.htm Tabs]
+  * [http://www.ultimate-guitar.com/tabs/t/the_national/bloodbuzz_ohio_ver2_crd.htm Bloodbuzz Ohio - The National], [http://www.we7.com/track/Bloodbuzz-Ohio?trackId=4164191&m=0 Tabs]
   * [http://tabs.ultimate-guitar.com/b/beatles/yellow_submarine_ver4_crd.htm Beatles - Yellow Submarine]
   * [http://tabs.ultimate-guitar.com/e/electric_light_orchestra/mr_blue_sky_crd.htm ELO - Mr Blue Sky]
 
-= REFERENCE =
+= Reference =
 
   * [http://www.ultimate-guitar.com/lessons/the_basics/how_to_sing.html How to sing]
 
@@ -62,3 +62,39 @@ Songs broken into category by artist.
 = TODO =
 
 Mumford & Sons, The Cave; Faithless, Don't leave; The Strokes, This is it; Arcade Fire songs (Wake up); Muse, Invincible;
+
+= Other =
+
+*Black Ops, by Paul Williams*
+
+{{{
+Bm7                          G             D                    Dsus2
+Playing call of duty, got my tomahawk out, going straight for B gonna take it easily.
+
+Bm7                     G                          D                    Dsus2
+What the fuck was that, I got killed from nowhere, watched the killcam, I can't believe it.
+
+Bm7                    G               D              Dsus2
+Fuck you campy fucker, waiting for me, not attacking, just waiting for me.
+
+Bm7                           G                    D                  Dsus2
+Play the game you campy fuck, stop waiting for me, move a little bit, you make me fucking sick.
+
+Bm7                      G                       D                   Dsus2
+Respawned now on attack, taking a new direction, going in a new way, gonna take me all day.
+
+Bm7                     G                                   D                    Dsus2
+What the fuck was that, I got killed when I shouldn't have, watched the killcam, I can't believe it.
+
+Bm7                            G              D            Dsus2
+Fuck you second-chance fu-cker waiting for me lying there just waiting for me.
+
+Bm7                        G               D                  Dsus2     
+Pick a different perk stop waiting for me, move a little bit, you make me fucking sick.
+
+Bm7                  G                         D                      Dsus2
+Just dashboarded it, I can't take it any more, going straight to bed, gonna rest ma head.
+
+Bm7                     G                                   D                   Dsus2
+What the fuck was that, I got killed when I shouldn't have, there's no killcam, I am really sad/dead.
+}}}
