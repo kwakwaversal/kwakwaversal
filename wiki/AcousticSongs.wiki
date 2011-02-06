@@ -65,6 +65,12 @@ Mumford & Sons, The Cave; Faithless, Don't leave; The Strokes, This is it; Arcad
 
 = Other =
 
+<style type="text/css">
+.prettyprint {
+    display: none;
+}
+</style>
+
 *Black Ops, by Paul Williams*
 
 {{{
