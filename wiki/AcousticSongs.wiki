@@ -67,7 +67,7 @@ Mumford & Sons, The Cave; Faithless, Don't leave; The Strokes, This is it; Arcad
 
 *Black Ops, by Paul Williams*
 
-{{{
+(((
 Bm7                          G             D                    Dsus2
 Playing call of duty, got my tomahawk out, going straight for B gonna take it easily.
 
