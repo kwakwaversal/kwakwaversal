@@ -20,6 +20,12 @@ Car hire:
   * Pickup: 2011-10-01 01:00
   * Return: 2011-10-08 00:00
 
+Bartering:
+  * Same flight times with Thomas Cook themselves: £167
+  * Hotel for a week (self-catering): £112
+  * Total: £279pp (£558)
+  * Total via website: £658
+
 Places to go:
   * The drive over Tiede is absolutely stunning (up and over via Vilaflor and the long road back down via Tamaimo through the lava fields & forest are my favourite drives of anywhere.)
   * Visit the Monkey Park it is AMAZING and only 10euros per adult.
