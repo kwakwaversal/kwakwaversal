@@ -22,6 +22,7 @@ Car hire:
 
 Bartering:
   * Same flight times with Thomas Cook themselves: £167
+  * Fri 30 Sep 09:30 MAN – 14:00 TFS, Sat 08 Oct 01:05 TFS – 05:15 MAN: £126
   * Hotel for a week (self-catering): £112 (Think this is for the apartment)
   * Total (if £112 each): £279pp (£558)
   * Total (if £112 for apt): £223pp (£446)
