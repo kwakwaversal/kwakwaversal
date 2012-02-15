@@ -5,6 +5,12 @@
 Bits and bobs relating to Perl.
 
 
+= MVC = 
+
+ * Catalyst - feature risk, but difficult to pick up.
+ * Mojo - Awesomely simple, yet powerful web framework.
+
+
 = Wiki =
 
 For an upcoming project, I have decided to include a messaging system.  The messaging system will typically accept google wiki style formatting, compile it, then store it in the database.
