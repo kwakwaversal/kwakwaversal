@@ -7,7 +7,7 @@ This is a collection of poems that I've memorised, and roughly how long they've 
 
 The time next to the poems is how long it's taken me to do a perfect recall of the poem at least twice.
 
-I intend to try and remember these forever, but this will take a while and lots of recall. I am trying different techniques to help me test recall of these poems. Currently using two Android apps 'AnkiDroid', and 'RememberMe'.
+I intend to try and remember these forever, but this will take a while and lots of recall. I am trying different techniques to help me test recall of these poems. Currently using two Android apps `AnkiDroid`, and `RememberMe`.
 
 
 = Authors =
