@@ -10,4 +10,7 @@
 Tool tops
 
  * [http://craigsworks.com/projects/simpletip/ Simple Tip]
+ * [http://www.lullabot.com/files/bt/bt-latest/DEMO/index.html Beauty Tips] - Quite nice.
+ * [http://flowplayer.org/tools/tooltip/index.html jQuery Tooltip] - Nice but no real examples.
+ * [http://jquery.bassistance.de/tooltip/demo/ Tool tip] - It's OK, but looks ugly.
  * [http://www.nickstakenburg.com/projects/prototip2/ Pro tip] - Nice, but you've got to pay for it.
