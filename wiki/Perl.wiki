@@ -29,4 +29,4 @@ I have decided to use `Text::GooglewikiFormat` to do the formatting as I believe
 
 = Misc =
 
- * Nice postgresql table for new CAAMS bot.
+ * [http://toroid.org/ams/time-profiler Nice postgresql table for new CAAMS activity]
