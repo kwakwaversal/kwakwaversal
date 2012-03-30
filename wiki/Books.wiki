@@ -13,6 +13,7 @@ Two simple lists at the moment.  Books I have read, and books I have been recomm
 
 = Recommended =
 
+  * Doyle Brunson power poker 
 
 = PDFS =
 
