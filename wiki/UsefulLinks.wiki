@@ -31,6 +31,7 @@ Links which I have read, or intend reading.
 == Databases ==
 
   * [http://www.4guysfromrolla.com/webtech/041807-1.shtml Database change auditing]
+  * [http://www.slideshare.net/jessejajti/hadrbdpostgres-postgreswest-08-presentation DRBD and Postgres]
 
 == Linux ==
 
