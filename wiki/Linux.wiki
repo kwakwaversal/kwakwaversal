@@ -68,4 +68,11 @@ Replace with
             ORDER BY user_cons_columns.position
 }}}
 
+It's also worth noting that you must add the relevant PATHs to /etc/profile.
+
+  export ORACLE_SID=CCDBS
+  export ORACLE_HOME=/usr/lib/oracle/10.2.0.4/client64/
+  export PATH=$PATH:$ORACLE_HOME/bin
+  export LD_LIBRARY_PATH=$ORACLE_HOME/lib
+
 DONE
