@@ -27,7 +27,7 @@ install libnotify-bin and you get a program called 'notify-send'.
 
 == Installing oracle libraries on Debian ==
 
-To install the oracle client on debian, you must download some .rpms from the [http://www.oracle.com/technology/software/tech/oci/instantclient/htdocs/linuxsoft.html Oracle website].  The job I did was on oracle server 8i, so I found out the compatible version I needed was 10.2.0.4.
+To install the oracle client on debian, you must download some .rpms from the [http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html Oracle website].  The job I did was on oracle server 8i, so I found out the compatible version I needed was 10.2.0.4.
 
 === Download ===
 
