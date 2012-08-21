@@ -9,7 +9,7 @@ Bits and bobs relating to Perl.
 
  * Catalyst - feature risk, but difficult to pick up.
  * Mojo - Awesomely simple, yet powerful web framework.
- * [http://blog.kraih.com/perl-is-ready-for-html5 Websockets] - Cross browser WebSockets and stuff
+ * [http://blog.kraih.com/perl-is-ready-for-html5 Websockets] - Cross browser Websockets and stuff
 
 
 = Wiki =
