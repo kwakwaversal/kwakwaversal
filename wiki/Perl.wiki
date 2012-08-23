@@ -5,6 +5,10 @@
 Bits and bobs relating to Perl.
 
 
+= POE =
+
+ * POE example using POE::Filter::Line [http://cpansearch.perl.org/src/RCAPUTO/POE-Filter-Snort-0.031/Snort.pm internally].
+
 = MVC = 
 
  * Catalyst - feature risk, but difficult to pick up.
