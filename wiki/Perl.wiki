@@ -16,7 +16,7 @@ Bits and bobs relating to Perl.
 
 == Database handling ==
 
- * Use DBIx::Class or DBIx::Connector
+ * Use DBIx::Class or DBIx::Connector for thread and fork safety.
  * You must not connect to database in startup() method.
  * Database initialization process must be written as default value of has function or attr method.
  * Using with [https://github.com/kraih/mojo/wiki/Hypnotoad-prefork-web-server hypnotoad]
