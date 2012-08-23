@@ -12,6 +12,17 @@ Bits and bobs relating to Perl.
  * [http://blog.kraih.com/perl-is-ready-for-html5 Websockets] - Cross browser Websockets and stuff
 
 
+= Mojolicious =
+
+== Database handling ==
+
+ * Use DBIx::Class or DBIx::Connector
+ * You must not connect to database in startup() method.
+ * Database initialization process must be written as default value of has function or attr method.
+ * Using with [https://github.com/kraih/mojo/wiki/Hypnotoad-prefork-web-server hypnotoad]
+ * Using with [https://github.com/tempire/MojoExample/blob/master/lib/MojoFull.pm DBIx::Class]
+
+
 = Wiki =
 
 For an upcoming project, I have decided to include a messaging system.  The messaging system will typically accept google wiki style formatting, compile it, then store it in the database.
@@ -27,6 +38,7 @@ I have decided to use `Text::GooglewikiFormat` to do the formatting as I believe
 = To read =
 
  * Perl Best Practices (2005)
+
 
 = Misc =
 
