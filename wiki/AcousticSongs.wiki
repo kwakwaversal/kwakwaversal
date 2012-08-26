@@ -85,10 +85,11 @@ Songs broken into category by artist.
   * [http://tabs.ultimate-guitar.com/f/foo_fighters/walk_ver2_crd.htm Foo Fighters - Walk]
   * [http://tabs.ultimate-guitar.com/b/bloodhound_gang/the_ballad_of_chasey_lain_ver2_crd.htm Bloodhound Gang - Ballad of Chasey Lain], [http://www.youtube.com/watch?v=If9fC9aJd-U YouTube]
  * [http://tabs.ultimate-guitar.com/w/walk_off_the_earth/little_boxes_crd.htmLite Boxes]
-= Reference =
  * [http://tabs.ultimate-guitar.com/s/strokes/under_cover_of_darkness_ver6_crd.htm The Strokes - Under Cover of Darkness], [http://www.youtube.com/watch?v=_l09H-3zzgA YouTube]
 
-  * [http://www.ultimate-guitar.com/lessons/the_basics/how_to_sing.html How to sing]
+
+= Reference =
+ * [http://www.ultimate-guitar.com/lessons/the_basics/how_to_sing.html How to sing]
 
 
 = TODO =
