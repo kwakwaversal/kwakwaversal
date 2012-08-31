@@ -1,5 +1,6 @@
 #summary Perl stuff
 
+
 = Introduction =
 
 Bits and bobs relating to Perl.
@@ -8,6 +9,7 @@ Bits and bobs relating to Perl.
 = POE =
 
  * POE example using POE::Filter::Line [http://cpansearch.perl.org/src/RCAPUTO/POE-Filter-Snort-0.031/Snort.pm internally].
+
 
 = MVC = 
 
@@ -47,3 +49,4 @@ I have decided to use `Text::GooglewikiFormat` to do the formatting as I believe
 = Misc =
 
  * [http://toroid.org/ams/time-profiler Nice postgresql table for new CAAMS activity]
+ * [https://gist.github.com/3549368 Using redis for online count]
