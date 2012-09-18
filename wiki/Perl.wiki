@@ -50,4 +50,4 @@ I have decided to use `Text::GooglewikiFormat` to do the formatting as I believe
 
  * [http://toroid.org/ams/time-profiler Nice postgresql table for new CAAMS activity]
  * [https://gist.github.com/3549368 Using redis for online count]
- * [http://search.cpan.org/~symkat/Daemon-Control-0.000009/lib/Daemon/Control.pm Daemon::Control] - For writing LBS compatible init.d scripts
+ * [http://search.cpan.org/~symkat/Daemon-Control-0.000009/lib/Daemon/Control.pm Daemon::Control] - For writing LSB compatible init.d scripts
