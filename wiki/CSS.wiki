@@ -1,5 +1,7 @@
 #summary Useful links that I've found on CSS
 
+ * [http://googlewebmastercentral.blogspot.co.uk/2012/05/coding-guidelines-for-html-and-css.html Google coding guidelines]
+
  * [http://constructyourcss.com/ Construct] Blueprint and jQuery layout builder
  * [http://code.google.com/p/emastic/ Emastic] Lightweight CSS framework
    * [http://www.allapis.com/Emastic-CSS-Temaplates/template8.html Sample templates]
