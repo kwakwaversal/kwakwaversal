@@ -14,6 +14,7 @@ Bits and bobs relating to Perl.
 = MVC = 
 
  * Catalyst - feature risk, but difficult to pick up.
+ ** [http://kcgeek.veetoo.org/taxonomy/term/138 Excel in Catalyst]
  * Mojo - Awesomely simple, yet powerful web framework.
  * [http://blog.kraih.com/perl-is-ready-for-html5 Websockets] - Cross browser Websockets and stuff
 
