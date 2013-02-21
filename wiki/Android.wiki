@@ -7,3 +7,4 @@ Useful stuff for Android.
 
 = Details =
   * [http://stackoverflow.com/questions/3505930/make-an-http-request-with-android http request via Android]
+  * [http://neilgoodman.net/2011/12/26/modern-techniques-for-implementing-rest-clients-on-android-4-0-and-below-part-1/ Modern techniques for implementing rest clients]
