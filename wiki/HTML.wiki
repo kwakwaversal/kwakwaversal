@@ -1,0 +1,11 @@
+#summary HTML related shizzle
+
+= Introduction =
+
+As a programmer, I try not to get my hands dirty with HTML too much, but it kind of comes with the territory.  I will add certain useful references as time goes on.
+
+
+= References =
+
+  * [http://developer.yahoo.com/performance/rules.html Performance rules]
+  * [http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml Coding guidelines]
