@@ -53,3 +53,4 @@ I have decided to use `Text::GooglewikiFormat` to do the formatting as I believe
  * [https://gist.github.com/3549368 Using redis for online count]
  * [http://search.cpan.org/~symkat/Daemon-Control-0.000009/lib/Daemon/Control.pm Daemon::Control] - For writing LSB compatible init.d scripts
  * [http://www.slideshare.net/kjbuckley/doing-rest-right-3385800 RESTful slide show]
+ * [http://stackoverflow.com/questions/3109672/how-to-make-a-hash-available-in-another-module Modules TIMTOWTDI]
