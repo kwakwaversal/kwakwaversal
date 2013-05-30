@@ -2,7 +2,9 @@
 
 = Introduction =
 
-Javascript stuff
+Stuff, and stuff.
+
+= Model View View Model =
 
   * [http://emberjs.com/ Ember]
   * [http://angularjs.org/ Angular]
