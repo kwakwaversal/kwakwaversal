@@ -1,0 +1,10 @@
+#summary Rest stuff
+
+= Introduction =
+
+Links and brain dumps for REST things.
+
+
+= References =
+
+  * [https://stripe.com/docs/api Strip API]
