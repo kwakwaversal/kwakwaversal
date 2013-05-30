@@ -4,6 +4,10 @@
 
 Stuff, and stuff.
 
+= JSON =
+
+  * [http://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml Google style guide]
+
 = Model View View Model =
 
   * [http://emberjs.com/ Ember]
