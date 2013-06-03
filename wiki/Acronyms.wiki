@@ -7,12 +7,3 @@ These are acronyms I have come across.  They are also ones I already know and wo
 == Telecommunications ==
 
   * E.164 - international public telecommunication numbering plan definition
-
-== Networking ==
-
-  * TCP - Transmission Control Protocol
-  * UDP - User Datagram Protocol
-
-== Misc ==
-
-  * RFC - Request for Comments
