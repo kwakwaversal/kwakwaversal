@@ -1,0 +1,15 @@
+#summary Interesting database things
+
+= Introduction =
+
+Stuff about databases that I would like to reference in the future, or find interesting.
+
+
+= Postgresql =
+
+The datatypes JSON (9.3) and hstore are interesting. Hstore can index keys at the time or writing but JSON cannot.
+
+== References ==
+
+Interesting references
+  * [http://blog.interlinked.org/tutorials/ k-Nearest neighbours]
