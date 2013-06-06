@@ -5,6 +5,10 @@
 Links and brain dumps for REST things.
 
 
+== To watch ==
+
+  * [http://www.infoq.com/presentations/Facebook-Software-Stack Facebook Software Stack]
+
 = References =
 
   * [http://en.wikipedia.org/wiki/List_of_HTTP_status_codes HTTP status codes]
