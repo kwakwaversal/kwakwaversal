@@ -77,4 +77,6 @@ It's also worth noting that you must add the relevant PATHs to /etc/profile.
   export LD_LIBRARY_PATH=$ORACLE_HOME/lib
 }}}
 
+If there are Oracle.so build problems, it's probably because the package libstdc++5 isn't installed.
+
 DONE
