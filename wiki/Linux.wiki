@@ -16,6 +16,10 @@ This is some linux related stuff I have made a place for.  I intend to break thi
  * vzctl start 1045
  * vzctl enter 1045
 
+== Virtualbox ==
+
+ * [http://blog.xoundboy.com/?p=586 Configure] networking for windows host with debian guest
+
 == GUI Notification ==
 
 install libnotify-bin and you get a program called 'notify-send'.  
