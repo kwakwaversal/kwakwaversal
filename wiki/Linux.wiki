@@ -21,6 +21,13 @@ This is some linux related stuff I have made a place for.  I intend to break thi
  * [http://blog.xoundboy.com/?p=586 Configure] networking for windows host with debian guest
  * Set managed=true in /etc/NetworkManager/NetworkManager.conf
 
+/etc/fstab example
+
+{{{
+popscreen       /home/paulw/popscreen/  vboxsf  auto,rw,uid=1000,gid=1000
+virtualoffice   /home/paulw/virtualoffice/ vboxsf auto,rw,uid=1000,gid=1000
+}}}
+
 == GUI Notification ==
 
 install libnotify-bin and you get a program called 'notify-send'.  
