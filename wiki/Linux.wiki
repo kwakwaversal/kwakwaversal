@@ -28,6 +28,17 @@ popscreen       /home/paulw/popscreen/  vboxsf  auto,rw,uid=1000,gid=1000
 virtualoffice   /home/paulw/virtualoffice/ vboxsf auto,rw,uid=1000,gid=1000
 }}}
 
+=== Console resolution ===
+
+You just need to edit /etc/default/grub:
+
+{{{
+GRUB_GFXMODE=1024x768
+GRUB_GFXPAYLOAD_LINUX=1024x768
+}}}
+
+`# update-grub`
+
 == GUI Notification ==
 
 install libnotify-bin and you get a program called 'notify-send'.  
