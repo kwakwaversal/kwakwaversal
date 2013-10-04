@@ -1,5 +1,11 @@
 #summary Useful links that I've found on CSS
 
+Images from fonts
+
+* [http://fortawesome.github.io/Font-Awesome/ Font Awesome]
+
+Stuff
+
  * [http://googlewebmastercentral.blogspot.co.uk/2012/05/coding-guidelines-for-html-and-css.html Google coding guidelines]
 
  * [http://constructyourcss.com/ Construct] Blueprint and jQuery layout builder
@@ -9,7 +15,7 @@
  * [http://net.tutsplus.com/html-css-techniques/10-principles-of-the-css-masters/ 10 principals of the CSS master]
  * [http://fluid.newgoldleaf.com/ Fluidgrid] - Great percentage based grid system, I'm using this for my `boss` system.
 
-Tool tops
+Tool tips
 
  * [http://craigsworks.com/projects/simpletip/ Simple Tip]
  * [http://www.lullabot.com/files/bt/bt-latest/DEMO/index.html Beauty Tips] - Quite nice.
