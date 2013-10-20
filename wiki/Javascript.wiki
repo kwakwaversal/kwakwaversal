@@ -14,3 +14,7 @@ Stuff, and stuff.
   * [http://angularjs.org/ Angular]
   * [http://backbonejs.org Backbone]
   * [http://knockoutjs.com Knockout]
+
+= Knockout =
+
+  * [http://jsfiddle.net/rniemeyer/nFshM/ User sortable list]
