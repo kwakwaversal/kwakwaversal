@@ -19,3 +19,7 @@ Stuff, and stuff.
 = Knockout =
 
   * [http://jsfiddle.net/rniemeyer/nFshM/ User sortable list]
+
+= Misc = 
+
+  * [http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/ Cloak] Server-Client game communication
