@@ -29,8 +29,9 @@ Bits and bobs relating to Perl.
  * Using with [https://github.com/kraih/mojo/wiki/Hypnotoad-prefork-web-server hypnotoad]
  * Using with [https://github.com/tempire/MojoExample/blob/master/lib/MojoFull.pm DBIx::Class]
 
-== Misc ==
+= Misc =
  * [http://stackoverflow.com/questions/19505798/using-anyevent-run-cmd-in-mojolicious-i-keep-getting-this-error-anyeventcon/19555801#19555801 Blocking forked processed]
+ * Devel::Confess, Carp::Always - Warning and dying loudly
 
 = Wiki =
 
