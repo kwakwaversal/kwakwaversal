@@ -23,3 +23,4 @@ Stuff, and stuff.
 = Misc = 
 
   * [http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/ Cloak] Server-Client game communication
+  * [https://www.digitalocean.com/community/articles/how-to-install-an-upstream-version-of-node-js-on-ubuntu-12-04 how to install node.js]
