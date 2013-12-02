@@ -24,3 +24,4 @@ Stuff, and stuff.
 
   * [http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/ Cloak] Server-Client game communication
   * [https://www.digitalocean.com/community/articles/how-to-install-an-upstream-version-of-node-js-on-ubuntu-12-04 How to install node.js]
+  * [http://bootsnipp.com/ Boot Snipp]
