@@ -14,3 +14,4 @@ Links and brain dumps for REST things.
   * [http://en.wikipedia.org/wiki/List_of_HTTP_status_codes HTTP status codes]
   * [https://stripe.com/docs/api Strip API]
   * [http://soabits.blogspot.dk/2013/05/error-handling-considerations-and-best.html Error handling considerations]
+  * [http://ibuildings.nl/blog/2013/03/4-http-security-headers-you-should-always-be-using securiy headers]
