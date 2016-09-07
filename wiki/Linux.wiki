@@ -39,6 +39,8 @@ You just need to edit /etc/default/grub:
 
  `# update-grub`
 
+Sometimes there are issues with `os-prober`, but if you're running a machine without other OS's on it, just remove it `apt-get remove os-prober`.
+
 == GUI Notification ==
 
 install libnotify-bin and you get a program called 'notify-send'.  
